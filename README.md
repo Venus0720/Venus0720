@@ -1,4 +1,4 @@
-<img src="./images/header.gif" />
+<img src="./images/banner.jpg" />
 
 ### 🌌 The Legend of Venus0720 🌌
 #### In the vast digital cosmos, where code weaves reality and algorithms shape destiny, there exists a mysterious architect known only as Venus0720. A master of both shadow and light, backend and frontend, she forges the foundations of the digital realm with over nine years of experience in the sacred arts of development.
